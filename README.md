@@ -1,5 +1,7 @@
 # HTML Learning Sandbox
 
+[![CI](https://github.com/shxamill/testing/actions/workflows/ci.yml/badge.svg)](https://github.com/shxamill/testing/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A small personal sandbox for learning HTML and GitHub workflows.
 
 ## Project contents
@@ -32,7 +34,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-No repository-level open-source license is currently provided. Do not assume that public availability grants permission to reuse or redistribute the code.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Community and security
 
