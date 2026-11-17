@@ -6,7 +6,7 @@ A small personal sandbox for learning HTML and GitHub workflows.
 
 | Path | Purpose |
 | --- | --- |
-| `index.html` | Entry point for HTML experiments. It is currently an empty starter file. |
+| `index.html` | Minimal HTML5 starter page for future HTML experiments. |
 
 ## Run locally
 
